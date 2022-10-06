@@ -1,0 +1,3 @@
+.banner{
+    position: relative;/*relativo ao banner sendo pai do absoluto banner__titulo*/
+}
