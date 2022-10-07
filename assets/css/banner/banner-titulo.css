@@ -1,12 +1,12 @@
 .banner__titulo{
-    font-family: Pacifico, cursive;
     color: #fdfdfd;
+    font-family: Pacifico, cursive;
     font-size: 81px; /*ou 5.0625rem*/
     position: absolute;/*Absoluto tendo relação a página inteira  ao banner que é o pai*/
     left: 50%;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.75);
-    top: 50%;
     text-align: center;
+    top: 50%;
     transform: translate(-50%, -50%);/*canvas 50 eixo x 50 eixo y */
     width: 100%;
 

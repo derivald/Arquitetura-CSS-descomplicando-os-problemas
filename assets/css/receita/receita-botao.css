@@ -1,8 +1,8 @@
 .receita__botao {
+  color: #ffffff;
   background: #8d0606;
   border: none;
   border-radius: 5px;
-  color: #ffffff;
   padding: 1rem;
   transition: all 0.1s ease-in-out; /*transição demora 1 segundo começa devagar e termina devagar*/
 }
